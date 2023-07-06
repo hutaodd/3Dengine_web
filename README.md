@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 3dfolio@0.0.0 D:\project_3D_xuee
 ├── @emailjs/browser@3.11.0
 ├── @react-three/drei@9.78.1
@@ -19,4 +20,6 @@
 └── vite@4.1.4 [Vite | 下一代的前端工具链 (vitejs.dev)](https://cn.vitejs.dev/)
 
 
+=======
+>>>>>>> a95f9759834e7f960a7248603c4731292073a5d1
 
